@@ -1,0 +1,4 @@
+requests cmd:
+beautifulsoup4
+pandas
+openpyxl
