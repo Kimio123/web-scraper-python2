@@ -1,4 +1,3 @@
-# web-scraper-python2
 # Web Price Scraper Pro (Python)
 
 Este es un extractor de datos automatizado que no solo recopila información, sino que genera reportes de nivel ejecutivo listos para su uso inmediato.
